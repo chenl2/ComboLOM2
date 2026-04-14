@@ -9,3 +9,5 @@
 ## 1. goto vcpkg folder, run: bootstrap-vcpkg.bat.
 ## 2. goto vcpkg folder, run: vcpkg install mongo-cxx-driver
 ## 3. goto vcpkg folder, run: vcpkg install spdlog:x64-windows
+
+# Run Gen.bat
